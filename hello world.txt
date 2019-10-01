@@ -1,0 +1,26 @@
+<html>
+<head>
+  <body>
+    <h1>History of Video Games</h1>
+      <p>Video games are digital games that can be played on a computer device (e.g., tablets, smartphones, laptops, consoles, etc.). <em>Originally</em> designed simply for entertainment, video games have grown into their own industry and field of learning, generating <strong>billions of dollars</strong> each year. <br /><br />"All your base are belong to us"</p>
+    <h2>The Beginning (1950s)</h2>
+      <p>In 1952, British professor A.S. Douglas created <em>OXO</em>, also known as noughts and crosses or a tic-tac-toe.<br/><br />In 1958, William Higinbotham created Tennis for Two on a large analog computer.<br /><br />In 1962, Steve Russell invented Spacewar!, a computer-based space combat video game.</p>
+    <h3>Video Games at Home (1960-1983)</h3>
+      <p>Developers at Sanders Associates, Inc. in 1967 invented a prototype mutliplayer, multi-program video game system that could be played on television. They were led by Ralph Baer.<br /><br />In the next couple years after 1972, the Odyssey console's popularity began to fizzle out and die.</p>
+      <p>In 1978, the Space Invaders arcade game was released.</p>
+    <h4>North American Video Game Crash (1983)</h4>
+      <ul>3 Video Game Consoles Available
+        <li>The Atari</li>
+        <li>The NES</li>
+        <li>The Gameboy</li>
+      </ul>
+    <h5>The Rise of Games in the East (1985-1995)</h5>
+      <p>In 1989, Sega released its first 16-bit Genesis console in North America.<br /><br />Genesis released its first Sonic the Hedgehog game in 1991.<br /><br />In the early to mid-1990's <em>Street Fighter II</em> and <em>Mortal Kombat</em> were released to the public.
+    <h6>Tech Company Takeover (1995-2010)
+      <p>Two gaming industries, Square and Enix, merged to form Square Enix in 2003. This company would later develop the games of <em>Final Fantasy</em> and <em>Kingdom Hearts</em>. <br /><br />Nintendo exploded in popularity in 2004 due to the release of the Nintendo DS.<br /><br />Sony released the Playstation 2 in 2000.</p>
+    <h7>Today in Gaming (2010-Now)</h7>
+      <p>Idependent game development, or Indie game development, became popular in the mid to late-2000's.<br /><br />
+      <p>In 2014, a game developer named Scott Cawthon developed one of the first Indie horror games known as Five Nights at Freddy's.
+      <p>In 2013, the PlayStation 4 was released in 
+    <h8>Useful Websites
+ </body>
